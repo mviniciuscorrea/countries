@@ -1,0 +1,15 @@
+{
+  "name": "country",
+  "version": "1.0.0",
+  "description": "read file csv and write into firebase project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus Vinicius Correa",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^6.2.5",
+    "firebase-admin": "^11.3.0"
+  }
+}
